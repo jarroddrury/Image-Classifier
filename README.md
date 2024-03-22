@@ -1,5 +1,5 @@
-## Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
-This is my first project in AI programming with Python Nanodegree program by Udacity
+## Use a Pre trained Image Classifier to Identify Dog Breeds
+This is Jarrod's first project in AI programming with Python Nanodegree program by Udacity
 
 <b>Project Scope:</b>
 
